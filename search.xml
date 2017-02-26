@@ -6,7 +6,7 @@
     <entry>
       <title><![CDATA[属于扳机的物语 一触即发]]></title>
       <url>http://yoursite.com/2017/02/24/post1/</url>
-      <content type="html"><![CDATA[<p><font color="#0099ff" size="4" face="PingFang SC Medium">粗谈《小魔女学院》制作前后历程（一)</font></p>
+      <content type="html"><![CDATA[<p><font color="#0099ff" size="4" face="PingFang SC Medium">粗谈《小魔女学院》制作前后历程（一）</font></p>
 <h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://okn1r5cv0.bkt.clouddn.com/2017/2/8post1_cover.png" alt=""></h2><p><font face="PingFang SC Regular"><br>——「作品が弾丸だとしたら、それを打ち出す引き金でありたい」<br>译为:如果把作品比喻成子彈的話,就要有能夠將其發射出去所扣動的扳機(TRIGGER)  </font></p>
 <p><font face="PingFang SC Regular"><br>&emsp;&emsp;或许对于动画制作公司TRIGGER而言，真的没有比这更确切的名词解释了。这家自2011年以来成立的新公司在近几年来陆续制作出了一部部十分吸引人的作品，而在今年一月，由TRIGGER制作的全新TV动画《小魔女学院》又再次引起了大家的关注，这部作品的诞生同公司本身有着太多的故事，而作为第一篇安利的文章我也希望同大家分享下这部作品背后的趣闻。</font></p>
 <a id="more"></a>
@@ -20,6 +20,14 @@
 <p><font face="PingFang SC Regular"><br>&emsp;&emsp;要做到有能力做好一部两小时的原创剧场动画，对于刚成立的小作坊而言要走的路还有很长。TRIGGER最初也是从协力外包开始做起，与Ordet和三次元(SANZIGEN)合作了《黑岩射手》，负责了A-1《偶像大师》《刀剑神域》《绯色战姬》(Vividred Operation)三部作品的单集外包。而在2012年底，TRIGGER又参与到了由日本文化厅主投的青年动画制作者育成计划“动画未来”中，开始了以吉成曜为核心的原创动画企划。<br>&emsp;&emsp;因为这个企划本身是由政府负责投钱的企划，TRIGGER得以将所有精力投入到作品的制作与新人的育成当中。而这一次的育成计划</font></p>
 ]]></content>
       
+        <categories>
+            
+            <category> 动画安利 </category>
+            
+            <category> 粗谈《小魔女学院》制作前后历程（一） </category>
+            
+        </categories>
+        
         
         <tags>
             
@@ -56,12 +64,6 @@
   
     
     <entry>
-      <title><![CDATA[categories]]></title>
-      <url>http://yoursite.com/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[关于]]></title>
       <url>http://yoursite.com/about/index.html</url>
       <content type="html"><![CDATA[<p>欢迎来到安利杂货铺，这里是Mika的个人博客。<br>我会再这里发一些我自己的安利整理和一些个人感想整理，还请大家多多指教~</p>
@@ -69,14 +71,20 @@
     </entry>
     
     <entry>
-      <title><![CDATA[读书]]></title>
-      <url>http://yoursite.com/reading/index.html</url>
+      <title><![CDATA[categories]]></title>
+      <url>http://yoursite.com/categories/index.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
       <title><![CDATA[tags]]></title>
       <url>http://yoursite.com/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[读书]]></title>
+      <url>http://yoursite.com/reading/index.html</url>
       <content type="html"></content>
     </entry>
     
