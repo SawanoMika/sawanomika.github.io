@@ -113,26 +113,29 @@ nav .brand-logo {
 }
 .side-nav li,
 .side-nav a {
-  padding: 0 30px;
+  padding: 10px 60px;
 }
 .card {
-  margin-top: 0;
+  margin-top: 15px;
 }
 .card.medium {
-  height: 400px;
+  height: 900px;
 }
-.card .card-content {
-  padding: 25px 25px 30px;
+width 80% .card-content {
+  padding: 50px 50px 60px;
 }
-@media (max-width: 767px) {
-  .card .card-content {
-    padding-left: 15px;
-    padding-right: 15px;
+@media (max-width: 900px) {
+  width 80% .card-content {
+    padding-left: 30px;
+    padding-right: 30px;
   }
 }
-.card .card-action {
-  padding-left: 25px;
-  padding-right: 25px;
+width 80% .card-action {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+width 80% .card-content p {
+  margin: 0.5em 0;
 }
 .chip {
   height: initial;
