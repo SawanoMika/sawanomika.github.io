@@ -1014,16 +1014,16 @@ figure.highlight .gutter {
   display: inline-block;
   width: 100%;
 }
-height 100% img {
+.design-item img {
   padding: 0;
 }
-height 100% .card-title {
+.design-item .card-title {
   font-weight: 400;
   font-size: 20px;
   text-shadow: 2px 2px 2px #000;
   line-height: 30px;
 }
-height 100% .card-tag {
+.design-item .card-tag {
   position: absolute;
   top: 15px;
   right: 10px;
