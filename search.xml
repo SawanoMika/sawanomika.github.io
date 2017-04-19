@@ -121,12 +121,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[tags]]></title>
-      <url>http://sawanomika.com/tags/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[categories]]></title>
       <url>http://sawanomika.com/categories/index.html</url>
       <content type="html"></content>
@@ -135,6 +129,12 @@
     <entry>
       <title><![CDATA[读书]]></title>
       <url>http://sawanomika.com/reading/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[tags]]></title>
+      <url>http://sawanomika.com/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
