@@ -156,6 +156,12 @@
   
     
     <entry>
+      <title><![CDATA[categories]]></title>
+      <url>http://sawanomika.com/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[关于该网站]]></title>
       <url>http://sawanomika.com/about/index.html</url>
       <content type="html"><![CDATA[<p>欢迎来到安利杂货铺，这里是Mika的个人博客。<br>我会在这里发一些我自己的安利整理和一些个人感想整理，还请大家多多指教~</p>
@@ -163,20 +169,14 @@
     </entry>
     
     <entry>
-      <title><![CDATA[categories]]></title>
-      <url>http://sawanomika.com/categories/index.html</url>
+      <title><![CDATA[读书]]></title>
+      <url>http://sawanomika.com/reading/index.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
       <title><![CDATA[tags]]></title>
       <url>http://sawanomika.com/tags/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[读书]]></title>
-      <url>http://sawanomika.com/reading/index.html</url>
       <content type="html"></content>
     </entry>
     
